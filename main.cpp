@@ -47,6 +47,8 @@ int Heap::deleteRoot()
     return result; //root
 }
 
-int main{
+int main() {
 
-};
+    
+    returt 0;
+}
